@@ -1,0 +1,6 @@
+first warning
+cats
+second warning
+cats
+first warning and error
+cats
