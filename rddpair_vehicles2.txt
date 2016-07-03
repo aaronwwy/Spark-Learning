@@ -1,0 +1,9 @@
+car	1
+car	2
+car	3
+car	4
+taxi	1
+taxi	47
+bus	250
+uber	10
+uber	17
